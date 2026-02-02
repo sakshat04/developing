@@ -6,6 +6,4 @@
     <p> Email - <br> Password- </p>
   </body>
 </html>
-//knowedge about developing<br>
-//classes<br>
-//college<br>
+
